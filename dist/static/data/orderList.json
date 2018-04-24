@@ -1,0 +1,23 @@
+[{
+    "id":"1",
+    "name":"酒店一",
+    "mark":"4.8",
+    "describe":"位置好",
+    "price":"112",
+    "src":"static/images/1.jpg",
+    "inTime":"2018年09月01日",
+    "leaveTime":"2018年09月02日",
+    "person":"张三",
+    "roomName":"豪华大床房"
+},{
+    "id":"2",
+    "name":"酒店二",
+    "mark":"4.9",
+    "describe":"近火车站，交通便利，地铁口",
+    "price":"135",
+    "src":"static/images/2.jpg",
+    "inTime":"2018年10月01日",
+    "leaveTime":"2018年10月06日",
+    "person":"张三",
+    "roomName":"双床房"
+}]

@@ -1,0 +1,13 @@
+[{
+    "id":"1",
+    "name":"豪华大床房",
+    "describe":"有wify，约30平米，可住两人",
+    "price":"112",
+    "src":"static/images/1-1.jpg"
+},{
+    "id":"2",
+    "name":"双床房",
+    "describe":"有wify，约32平米，可住两人",
+    "price":"112",
+    "src":"static/images/1-1.jpg"
+}]

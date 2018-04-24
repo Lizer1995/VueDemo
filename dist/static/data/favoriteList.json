@@ -1,0 +1,24 @@
+[
+    {
+	    "id":"1",
+	    "name":"酒店一",
+	    "mark":"4.8",
+	    "describe":"位置好",
+	    "price":"112",
+	    "src":"static/images/1.jpg"
+	},{
+	    "id":"2",
+	    "name":"酒店二",
+	    "mark":"4.9",
+	    "describe":"近火车站，交通便利，地铁口",
+	    "price":"135",
+	    "src":"static/images/2.jpg"
+	},{
+	    "id":"3",
+	    "name":"酒店三",
+	    "mark":"4.6",
+	    "describe":"景区附近，位置好，提供接送机服务",
+	    "price":"228",
+	    "src":"static/images/3.jpg"
+	}
+]
